@@ -120,7 +120,7 @@ REACT_APP_API_URL=YOUR_API_URL
       </td>
       <td align="center">
         <a href="https://github.com/flyinvyn">
-          <img width="100" src="https://avatars.githubusercontent.com/u/123098918?v=4" alt="Ian Pangestu Setyanto"><br/>
+          <img width="100" src="https://avatars.githubusercontent.com/u/123098918?v=4" alt="Yusuf Setiawan"><br/>
           <sub><b>Alfin Yahya Alyashi</b></sub> <br/>
           <sub>Front End Web Developer</sub>
         </a>
